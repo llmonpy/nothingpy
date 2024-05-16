@@ -15,8 +15,8 @@ for item in some_list:
     do_something(item)
 ```
 
-Nothing is a global variable of the class NothingClass.  Nothing has a len of 0, is False, returns an empty iterable,
-converts to an empty string, and responds to values(), keys() and items() like an empty dictionary.  Nothing equals
+**Nothing** is a global variable of the class NothingClass.  **Nothing** has a len of 0, is False, returns an empty iterable,
+converts to an empty string, and responds to values(), keys() and items() like an empty dictionary.  **Nothing** equals
 other NothingClass instances, None and False.  
 
 ## Installation
