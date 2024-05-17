@@ -10,7 +10,6 @@ if some_list:
 If you use Nothing instead of None, you can write code like this:
 
 ```python
-some_list = Nothing
 for item in some_list:
     do_something(item)
 ```
