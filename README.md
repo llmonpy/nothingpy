@@ -2,7 +2,7 @@
 Nothing is a replacement for None that eliminates the need for many if statements.  I am tried of writing code like this:
 
 ```python
-if some_list is not None:
+if some_list:
     for item in some_list:
         do_something(item)
 ```
