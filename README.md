@@ -1,5 +1,5 @@
 # nothingpy
-Nothing is a replacement for None that eliminates the need for many if statements.  I am tried of writing code like this:
+Nothing is a replacement for None that eliminates the need for many if statements.  I am tired of writing code like this:
 
 ```python
 if some_list:
